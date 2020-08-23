@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_Week03", "FIT5032_Week03\FIT5032_Week03.csproj", "{E502056A-52E7-4293-9480-28070D6CEEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_Week03.Tests", "FIT5032_Week03.Tests\FIT5032_Week03.Tests.csproj", "{1BD050FC-34AC-47B4-985C-27B3A3CD04D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E502056A-52E7-4293-9480-28070D6CEEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E502056A-52E7-4293-9480-28070D6CEEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E502056A-52E7-4293-9480-28070D6CEEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E502056A-52E7-4293-9480-28070D6CEEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD050FC-34AC-47B4-985C-27B3A3CD04D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD050FC-34AC-47B4-985C-27B3A3CD04D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD050FC-34AC-47B4-985C-27B3A3CD04D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD050FC-34AC-47B4-985C-27B3A3CD04D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A3CAA5-35D6-4C39-AB82-600173F67316}
+	EndGlobalSection
+EndGlobal
